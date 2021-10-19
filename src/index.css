@@ -355,3 +355,11 @@ aside  {
   background-color: rgb(230, 78, 78);
   color: var(--blanco);
 }
+
+.btn-eliminar {
+  background-color: var(--blanco);
+}
+
+.btn-eliminar:hover {
+  background-color: var(--gris2);
+}
