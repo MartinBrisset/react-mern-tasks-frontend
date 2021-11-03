@@ -88,6 +88,10 @@ a {
   background-color: transparent;
 }
 
+.cerrar-sesion {
+  color: white;
+}
+
 @media (min-width: 768px) {
   .contenedor-app {
       display: flex;
